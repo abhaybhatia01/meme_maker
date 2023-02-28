@@ -1,7 +1,7 @@
 {
   "name": "meme_maker",
   "version": "0.1.0",
-  "homepage": "https://github.com/abhaybhatia01/meme_maker",
+  "homepage": "https://abhaybhatia01.github.io/meme_maker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
